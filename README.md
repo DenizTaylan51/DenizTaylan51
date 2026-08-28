@@ -2,7 +2,7 @@
 
 ### <div align="center"> Electronics Technology (Associate Degree) 🎓 | Embedded Systems & Hardware Geek ⚙️ |   Gaming Enthusiast 🎮❤️</div>
 
-- ⚡ Fun fact: I'm a coffee gourmet, drank and rated almost all types of coffee
+- ⚡ Fun fact: I'm a coffee gourmet, drank and rated almost all types of tea
 - 🔧 Talk is Cheap Show Me the Code - Linus Torvalds
 
 
