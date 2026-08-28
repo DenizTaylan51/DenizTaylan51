@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I'm a coffee gourmet, drank and rated almost all types of coffee
 - 🔧 Talk is Cheap Show Me the Code - Linus Torvalds
 
-
+![snake gif](https://github.com/DenizTaylan51/DenizTaylan51/blob/output/github-contribution-grid-snake.gif)
   
 
 #### Languages and Tools that I like and use:
