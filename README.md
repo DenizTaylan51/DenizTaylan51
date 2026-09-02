@@ -1,6 +1,6 @@
-### <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Medium+500&pause=1000&color=24F78F&center=true&random=false&width=435&lines=HELLO+WORLD!%F0%9F%91%8B;WELCOME+TO+MY+GITHUB+PAGE+%F0%9F%92%A4)](https://git.io/typing-svg)</div>
+r### <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Medium+500&pause=1000&color=24F78F&center=true&random=false&width=435&lines=HELLO+WORLD!%F0%9F%91%8B;WELCOME+TO+MY+GITHUB+PAGE+%F0%9F%92%A4)](https://git.io/typing-svg)</div>
 
-### <div align="center"> Electronics Technology (Associate Degree) 🎓 | Embedded Systems & Hardware Geek ⚙️ |   Gaming Enthusiast 🎮❤️</div>
+### <div align="center"> | Embedded Systems & Hardware Geek ⚙️ |   Gaming Enthusiast 🎮❤️</div>
 
 - ⚡ Fun fact: I'm a tea gourmet, drank and rated almost all types of tea
 - 🔧 Talk is Cheap Show Me the Code - Linus Torvalds
@@ -33,7 +33,7 @@
 
 #### Github Stats
 
-![DenizTaylan51's Stats](https://github-readme-stats.vercel.app/api?username=bayeggex&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![DenizTaylan51's Stats](https://github-readme-stats.vercel.app/api?username=DenizTaylan51&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 
   ![DenizTaylan51's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayeggex&theme=dracula&show_icons=true&hide_border=true&layout=compact)
